@@ -13,6 +13,15 @@ This project uses:
 - [Mpdf](https://github.com/mpdf/mpdf)
 - [VueMQ](https://www.npmjs.com/package/vue-mq)
 
+## Install
+Just run some basic commands:
+```bash
+$ composer install
+$ npm install
+$ php artisan key:generate
+```
+
+
 ## Demo
 This project realized at
 [this site](https://ekfgroup.com/programs/master-tool/lightning-protection)
